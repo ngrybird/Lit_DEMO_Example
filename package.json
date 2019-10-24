@@ -1,0 +1,21 @@
+{
+  "name": "LITELEMENT",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "lit-element": "^2.1.0",
+    "polymer-cli": "^1.9.8",
+    "pwa-helpers": "^0.9.1",
+    "react": "^16.8.6",
+    "react-redux": "^7.0.2",
+    "redux": "^4.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
